@@ -1,0 +1,12 @@
+*.pyc
+.vscode/
+.env
+venv/
+__pycache__/
+*.db
+*.sqlite3
+*.gguf
+*.pt
+agent_captures/
+memory.txt
+last_chat_log*.txt

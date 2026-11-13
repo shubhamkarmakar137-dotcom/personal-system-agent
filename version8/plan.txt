@@ -1,0 +1,24 @@
+make 'ADOLF'(its what im naming the project and you cant change my mind)
+steps 
+use the already tested code that YOU made and then modify or combine to create a machine as conversational and smart (in a human out of the box way) as jarvis and as usefull as the machine from "person of intrest"
+create a interupt funtion (for now its only for the ui as interupting an ai mid thought is weird)
+alow the user and the ai to interupt the ui 
+after the ai is done thinking and has outputed a result dont let it sit idle, make it think by telling it "this is your thought for now its temp and wont besaved in the memory but you can remember thepast thoughts now here is .... input" and the next time if the input is the same then skip and scan for inputs again
+even when im entering the prompt it shouldn't be idle 
+there should be 2 codes and 3 or four files
+one for the uione for the ai
+and one for the tools it can call
+and maybe one for memory
+this is only for one ai system, the final code will work as the old ones did where if the  newer and better but error prone system fails it can fall back to an older code and the code that runs the ai should be universal
+this should be how it works
+folder
+  folder
+    universal code to talk with ai
+    newest code (ui)
+    fail safe (ui)
+    also unversal tools
+  the oldest code that will be the back up if both fail
+  tools
+but basicly there will be two newer codes that depend on the ai and them selfs are just the ui
+and the final fail safe is the true back up
+hmm i'll keep adding here

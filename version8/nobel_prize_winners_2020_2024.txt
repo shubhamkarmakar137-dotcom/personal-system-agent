@@ -1,0 +1,82 @@
+Nobel Prize Winners in Science (2020 - 2024)
+
+==================================================
+2024
+==================================================
+- Physiology or Medicine:
+  * Victor Ambros and Gary Ruvkun
+    Reason: Discovery of microRNA and its role in post-transcriptional gene regulation.
+
+- Physics:
+  * John J. Hopfield and Geoffrey E. Hinton
+    Reason: Foundational discoveries and inventions that enable machine learning with artificial neural networks.
+
+- Chemistry:
+  * David Baker
+    Reason: Computational protein design.
+  * Demis Hassabis and John M. Jumper
+    Reason: Protein structure prediction (AlphaFold).
+
+==================================================
+2023
+==================================================
+- Physiology or Medicine:
+  * Katalin Karikó and Drew Weissman
+    Reason: Discoveries concerning nucleoside base modifications that enabled effective mRNA vaccines against COVID-19.
+
+- Physics:
+  * Pierre Agostini, Ferenc Krausz, and Anne L'Huillier
+    Reason: Experimental methods generating attosecond pulses of light for the study of electron dynamics in matter.
+
+- Chemistry:
+  * Moungi G. Bawendi, Louis E. Brus, and Alexei I. Ekimov
+    Reason: Discovery and synthesis of quantum dots.
+
+==================================================
+2022
+==================================================
+- Physiology or Medicine:
+  * Svante Pääbo
+    Reason: Discoveries concerning the genomes of extinct hominins and human evolution.
+
+- Physics:
+  * Alain Aspect, John F. Clauser, and Anton Zeilinger
+    Reason: Experiments with entangled photons, establishing the violation of Bell inequalities, and pioneering quantum information science.
+
+- Chemistry:
+  * Carolyn R. Bertozzi, Morten Meldal, and K. Barry Sharpless
+    Reason: Development of click chemistry and bioorthogonal chemistry.
+
+==================================================
+2021
+==================================================
+- Physiology or Medicine:
+  * David Julius and Ardem Patapoutian
+    Reason: Discoveries of receptors for temperature and touch.
+
+- Physics:
+  * Syukuro Manabe and Klaus Hasselmann
+    Reason: Physical modelling of Earth's climate, quantifying variability, and reliably predicting global warming.
+  * Giorgio Parisi
+    Reason: Discovery of the interplay of disorder and fluctuations in physical systems from atomic to planetary scales.
+
+- Chemistry:
+  * Benjamin List and David W.C. MacMillan
+    Reason: Development of asymmetric organocatalysis.
+
+==================================================
+2020
+==================================================
+- Physiology or Medicine:
+  * Harvey J. Alter, Michael Houghton, and Charles M. Rice
+    Reason: Discovery of the Hepatitis C virus.
+
+- Physics:
+  * Roger Penrose
+    Reason: Discovery that black hole formation is a robust prediction of the general theory of relativity.
+  * Reinhard Genzel and Andrea Ghez
+    Reason: Discovery of a supermassive compact object at the center of our galaxy.
+
+- Chemistry:
+  * Emmanuelle Charpentier and Jennifer A. Doudna
+    Reason: Development of a method for genome editing (CRISPR-Cas9).
