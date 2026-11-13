@@ -1,12 +1,58 @@
-*.pyc
-.vscode/
+# --- Secrets & Keys ---
 .env
-venv/
+.env.*
+*.key
+*.pem
+credentials.json
+
+# --- Python & Virtual Environments ---
 __pycache__/
-*.db
-*.sqlite3
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# --- AI Models & Large Weights ---
 *.gguf
 *.pt
+*.pth
+*.safetensors
+*.onnx
+*.bin
+
+# --- Databases, Logs & Personal Agent Data ---
+*.db
+*.sqlite
+*.sqlite3
+*.log
 agent_captures/
 memory.txt
 last_chat_log*.txt
+
+# --- Heavy Media & Archives ---
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.mp3
+*.wav
+*.flac
+*.zip
+*.7z
+*.rar
+
+# --- Compiled C++ / Executables ---
+*.exe
+*.o
+*.out
+
+# --- OS & Editor Files ---
+.vscode/
+.idea/
+desktop.ini
+Thumbs.db
+.DS_Store
